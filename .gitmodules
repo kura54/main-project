@@ -1,0 +1,3 @@
+[submodule "sub-projecy"]
+	path = sub-projecy
+	url = https://github.com/kurapuchi/sub-projecy.git
